@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii I am rejo
 i am 
+=======
+
+>>>>>>> 3bf8be08b1ab171327456be2a57d596a7eaf693d
